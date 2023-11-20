@@ -1,4 +1,4 @@
-import { Link, ScrollLink } from "react-scroll";
+import { Link } from "react-scroll";
 
 function Navbar() {
   document.addEventListener("scroll", function (e) {
@@ -42,7 +42,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              Sahabat-Iqbaal
+              Sahabat--Iqbaal
             </Link>
           </h1>
           {/* <ul className="bar">
