@@ -10,7 +10,7 @@ function Footer() {
           <div className="col-md-3">
             <h1 className="logo">Sahabat Iqbaal</h1>
             <p className="footer-text">
-              Portofolio of Muhammad Amin Iqbaal Alam, S.Kom
+              Portofolio of Muhammad Amin Iqbaal Alam, S.Kom & Bro Yonathan hehe
             </p>
           </div>
           <div className="col-md-6">
