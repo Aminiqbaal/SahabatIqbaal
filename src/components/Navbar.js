@@ -42,7 +42,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              Sahabat Iqbaal
+              Sahabat-Iqbaal
             </Link>
           </h1>
           {/* <ul className="bar">
